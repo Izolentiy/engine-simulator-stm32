@@ -1,0 +1,12 @@
+# Результаты сборки
+Build/
+build/
+
+# Локальные пути к тулчейну и OpenOCD (у каждого свои)
+.stm32env
+.vscode/settings.json
+
+# Мусор ОС
+Thumbs.db
+desktop.ini
+.DS_Store
